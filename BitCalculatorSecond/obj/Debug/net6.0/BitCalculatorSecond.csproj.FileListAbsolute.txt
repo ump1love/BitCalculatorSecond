@@ -1,0 +1,14 @@
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\bin\Debug\net6.0\BitCalculatorSecond.exe
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\bin\Debug\net6.0\BitCalculatorSecond.deps.json
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\bin\Debug\net6.0\BitCalculatorSecond.runtimeconfig.json
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\bin\Debug\net6.0\BitCalculatorSecond.dll
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\bin\Debug\net6.0\BitCalculatorSecond.pdb
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.AssemblyInfoInputs.cache
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.AssemblyInfo.cs
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.csproj.CoreCompileInputs.cache
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.dll
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\refint\BitCalculatorSecond.dll
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.pdb
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\BitCalculatorSecond.genruntimeconfig.cache
+D:\codes\codes for uni\BitCalculatorSecond\BitCalculatorSecond\obj\Debug\net6.0\ref\BitCalculatorSecond.dll
